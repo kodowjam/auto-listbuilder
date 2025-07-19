@@ -1,5 +1,3 @@
-cd ..  # Back to main folder
-cat > README.md << 'EOF'
 # 🚀 Auto-ListBuilder
 
 AI-powered Chrome extension that automatically builds targeted prospect lists with contextual outreach messages.
