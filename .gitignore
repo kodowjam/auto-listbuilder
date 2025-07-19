@@ -1,0 +1,31 @@
+# Environment variables (NEVER commit API keys!)
+.env
+*.env
+
+# Service account credentials (NEVER commit!)
+*service-account*.json
+*.json
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+venv/
+auto-listbuilder-env/
+
+# macOS
+.DS_Store
+
+# Logs
+*.log
+
+# Node modules (if any)
+node_modules/
+
+# IDE
+.vscode/
+.idea/
+
+# Temporary files
+*.tmp
+*.temp
